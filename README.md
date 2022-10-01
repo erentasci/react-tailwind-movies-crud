@@ -1,5 +1,25 @@
 # Getting Started with Create React App
 
+## React Tailwind CSS Movies Crud App
+
+### Tech stack
+```
+- React
+- React-Router
+- Tailwind CSS
+- JSON-Server Fake REST API
+```
+
+## Homepage :
+![screenshot](./src/images/screenshot-1.png)
+## New Movie Add Page :
+![screenshot](./src/images/screenshot-2.png)
+## Movie Edit Page :
+![screenshot](./src/images/screenshot-3.png)
+## Responsive Display:
+![screenshot](./src/images/screenshot-4.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
