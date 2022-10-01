@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Tetikçi ",
+      "rating": "7.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_bestv2/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
+      "overview": "Pulitzer ödüllü Amerikalı romancı Stephen Hunter'in 1993 yılında yazdığı 'Point of Impact' isimli gerilim romanından uyarlanan 'Shooter' USA Network'un yaklaşan aksiyon, drama dizilerinden biridir.\n\nKitabın 2007 yılında yapımcılığını Lorenzo di Bonaventura'ın üstlendiği, başrollerini Mark Wahlberg ve Danny Glover'ın paylaştığı bir de sinema filmi çekilmiştir. Yönetmenliğini Antoine Fuqua'nın yaptığı filmin senaryosu Jonathan Lemkin tarafından yazılmıştır. 61.000.000$ bütçe ile çekilen film 95.700.000$ gişe hasılatı yapmıştır.\n\nDizi \"The Shield\" ve \"Lax\" dizilerine yaptığı çalışmalar ile tanınan John Hlavin tarafından oluşturulmuş ve senaryosu geliştirilmiştir. Yönetmen koltuğunda ise İngiliz sinema yönetmeni Simon Cellan Jones (Boardwalk Empire, Jessica Jones) oturmaktadır. \"Boardwalk Empire\", \"Entourage\" ve \"How to Make It in America\" gibi dizilerin yapımcısı Mark Wahlberg ise dizinin yapımcısı pozisyonuna sahip. Üretimi ise Paramount Television ve Universal Cable Productions şirketleri tarafından yapılmaktadır.\n\nOyuncu kadrosundaki öne çıkan isimler Ryan Phillippe (Secrets and Lies, Damages), Emily Rios (Breaking Bad, The Bridge, True Detective), Omar Epps (House), Tembi Locke (The Mentalist, Castle, Bones), Shantel VanSanten (The Flash, The Messengers), David Marciano (Homeland, The Shield) ve Eddie McClintock (Warehouse 13) olarak sıralanmaktadır.\n\nDizi, Vietnam Savaşı'nda keskin nişancı olarak görev almış Bob Lee Swagger/Bob 'the Nailer' (Ryan Phillippe) etrafında döner. (Bu karakter gerçek hayatta ABD Deniz Piyadeleri'nde sniper olarak görev almış, Vietnam Savaşı'nda uzun mesafede yaptığı atışlarla ün yaparak efsane olmuş Carlos Hathcock'u yansıtmaktadır.) Geçmişini geride bırakmak isteyen Bob uzun süredir küçük bir kasabada inzivaya çekilmiştir. Ondan son bir görev için işine geri dönmesi istenmektedir. Ancak bu yeni görevinde ABD Başkanı'na yönelik bir suikast komplosu tuzağına düştüğünü farketmesi uzun sürmez. Onun amacı artık bu sır perdesini aralamak ve başkanı her türlü suikast girişimine karşı korumaktır.",
+      "id": 2
+    },
+    {
+      "name": "Harry Potter ve Felsefe Taşı",
+      "rating": "7.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_bestv2/6FHO9N5mj5hdgRNYzflgheemIBZ.jpg",
+      "overview": "Harry Potter, muggle (büyücü yada cadı olmayan insanlar) amcası ve halasıyla sıradan ve zorluklarla dolu bir hayatı yaşarken, yılanlarla konuşabildiğinin, kızgınlık öfkesi sırasında eşyaları hareket ettirebildiğinin farkına varacaktır. Hogwarts Büyücülük ve Cadılık Okulu'ndan kabul edildiğini belirten mektup ise hayatının sıradanlığını değiştirecektir. Artık o bir büyücü adayıdır.",
+      "id": 3
+    },
+    {
+      "name": "Thor",
+      "rating": "6.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_bestv2/oKejUXjql4PyMG1ocTCD5Hiay9v.jpg",
+      "overview": "“Thor” yalnız bir adamın destansı yolculuğunun, tahtın veliahtı hırçın bir prensken, tahta geçme hakkını kazanan bir süper kahramanın öyküsünü epik bir kurguyla anlatıyor...Öykünün odak noktasında, düşüncesiz tavırları yüzünden antik bir savaşı tekrar alevlendiren güçlü ve kibirli savaşçı Thor var. Dünya’ya sürgün edilen Thor, dünyada insanlar arasında yaşamaya mecbur bırakılmıştır. Ait olduğu dünyanın en tehlikeli kötü adamı, karanlık istila güçlerini Dünya’yı ele geçirmek için yollayınca kahramanımız Thor, gerçek kimliğini ortaya koymak için ne yapması gerektiğini öğrenecektir...",
+      "id": 5
+    },
+    {
+      "name": "The Sandman",
+      "rating": "8.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+      "overview": "Özet\nGözlerimizi kapatıp uykuya daldığımızda bizi bambaşka bir dünya bekler. Düşdünya denen bu yerde Düşler Lordu Sandman, en derindeki tüm korkularımızı ve fantezilerimizi şekillendirir. Ancak Düş beklenmedik şekilde yakalanıp yüz yıl boyunca tutsak edilince, yokluğu hem rüyalar âlemini hem de gerçek dünyayı sonsuza dek değiştirecek bir dizi olayı tetikler. Düş, düzeni yeniden sağlamak için farklı dünyalarda ve zamanlarda seyahat ederek sonsuz varlığı sırasında yaptığı hataları telafi etmeye çalışır. Bu yolculuk sırasında hem eski dost ve düşmanlarıyla tekrar karşılaşır hem de kozmik ve insani yeni varlıklarla tanışır.",
+      "id": 6
+    }
+  ]
+}
